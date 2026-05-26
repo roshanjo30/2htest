@@ -13,7 +13,7 @@ class Dog extends Animal
 
         public function hichild()
         {
-		parent::hi();
+		$this->hi();
                 echo "This is child class";
         }
 
