@@ -9,5 +9,11 @@ class Dog extends Animal
 	{
 		echo "bow bow\n";
 	}
+
+	public function hi()
+	{
+		parent::hi();
+		echo "This is child class";
+	}
 }
 ?>

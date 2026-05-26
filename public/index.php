@@ -7,6 +7,7 @@ $obj=new Dog();
 
 $obj->sound();
 $obj->hello();
+$obj->hi();
 
 
 ?>
