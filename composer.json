@@ -1,8 +1,8 @@
 {
    "autoload":
   	{ "psr-4":
-		{ "animal\\": "animal/",
-		  "dog\\": "dog/"
+		{ "Animal\\": "Animal/",
+		  "Dog\\": "Dog/"
 	  	}
       	}		
 
